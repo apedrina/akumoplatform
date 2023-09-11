@@ -1,0 +1,4 @@
+--patch-module
+br.com.cielo.pfi.pfi=_
+--add-reads
+br.com.cielo.pfi.pfi=ALL-UNNAMED
